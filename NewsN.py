@@ -211,7 +211,7 @@ from urllib.parse import urlparse
 me = "mahitha.valluru@fmr.com"
 # add as many emails as you like to the sender list, with a comma and space
 # between each
-you = ["kenneth.campbell@fmr.com"]
+you = ["mahitha.valluru@fmr.com"]
 
 
 # KEY WORDS
